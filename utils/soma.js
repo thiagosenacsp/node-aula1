@@ -3,4 +3,5 @@ const soma = (a, b) => {
 };
 // () => {} arrow funtion
 
-module.exports = soma;
+// module.exports = soma;
+export default soma;
